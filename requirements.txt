@@ -1,0 +1,11 @@
+
+streamlit
+sentence-transformers
+scikit-learn
+langchain-pinecone
+langchain
+pinecone-client
+PyGithub
+GitPython
+openai
+pathlib
